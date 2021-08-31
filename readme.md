@@ -7,3 +7,4 @@
 * Studen repositories
 * GitHub Classroom
 * Permissions
+* Exercises
