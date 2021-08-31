@@ -8,3 +8,6 @@
 * GitHub Classroom
 * Permissions
 * Exercises
+
+## Visualize Git
+[Visualizing git](https://git-school.github.io/visualizing-git/)
